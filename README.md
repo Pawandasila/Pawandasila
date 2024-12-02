@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### 🚀 About Me
-- 🔭 I'm currently working on **E-Commerce App**
-- 🌱 I'm currently learning **MERN & Next.js**
 - 📫 How to reach me **pawandasila06@gmail.com**
 
 ### 🧰 Technologies & Tools
@@ -31,6 +28,10 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
+### 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pawandasila&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawandasila&show_icons=true&theme=radical)
+
 ### 🤝 Connect with Me
 <p align="left">
 <a href="https://linkedin.com/in/pawan-dasila-92483b251/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -38,10 +39,5 @@
 <a href="https://leetcode.com/u/pawan_dasila/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@pawandasila06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
 </p>
-
-### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawandasila&show_icons=true&locale=en&layout=compact" alt="pawandasila" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pawandasila&show_icons=true&locale=en" alt="pawandasila" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pawandasila&label=Profile%20views&color=0e75b6&style=flat" alt="pawandasila" /> </p>
