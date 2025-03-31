@@ -56,20 +56,6 @@ I'm a passionate Full Stack Developer with a strong foundation in web developmen
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 
-## Featured Projects
-
-### AI-Enhanced Task Management System
-A modern web application that uses machine learning to prioritize and categorize tasks based on user behavior patterns and historical data.
-`React` `Node.js` `Express` `MongoDB` `TensorFlow.js`
-
-### E-Commerce Platform with Recommendation Engine
-Implemented a scalable e-commerce solution with an integrated recommendation system that analyzes user preferences and browsing behavior.
-`Next.js` `Express` `MongoDB` `Python` `scikit-learn`
-
-### Real-time Data Visualization Dashboard
-Built a responsive dashboard that processes and visualizes large datasets in real-time with interactive charts and predictive analytics.
-`React` `D3.js` `Node.js` `WebSockets` `Pandas`
-
 ## GitHub Analytics
 
 <p align="center">
