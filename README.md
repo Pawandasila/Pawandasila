@@ -177,24 +177,6 @@ const pawanDasila = {
   
 </div>
 
-## 💻 Competitive Programming
-
-<div align="center">
-  
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/pawan_dasila?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/pawan_dasila/)
-  
-  <p>
-    <a href="https://www.hackerrank.com/profile/pawandasila06" target="_blank">
-      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-    </a>
-    <a href="https://leetcode.com/u/pawan_dasila/" target="_blank">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-    </a>
-    <a href="https://www.hackerearth.com/@pawandasila06" target="_blank">
-      <img src="https://img.shields.io/badge/HackerEarth-2C3454?style=for-the-badge&logo=hackerearth&logoColor=white" alt="HackerEarth"/>
-    </a>
-  </p>
-  
 </div>
 
 ## 🎮 Fun Zone
